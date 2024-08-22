@@ -12,7 +12,7 @@
 - Microsoft PowerPoint · Presentations · Database Administration
 
 ## 🌐 Connect
-- [LinkedIn](www.linkedin.com/in/siddhant-srivastava-389212211)
+- [LinkedIn](https://www.linkedin.com/in/siddhant-srivastava-389212211/)
 
 ## 🏆 LeetCode Profile
 - [sksid4268](https://leetcode.com/sksid4268/)

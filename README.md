@@ -1,6 +1,7 @@
 # Siddhant Srivastava
 ## 👋 About Me
-- Pursuing B.Tech in C.S.E. from I.E.R.T. Prayagraj (4th Year)
+- B.Tech in C.S.E. from I.E.R.T. Prayagraj 
+
 
 
 ## 🎓 Education
